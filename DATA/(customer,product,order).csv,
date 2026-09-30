@@ -1,0 +1,11 @@
+import pandas as pd
+
+# Load the three CSV files
+customers = pd.read_csv("customers.csv")
+products = pd.read_csv("product.csv")
+orders = pd.read_csv("order_data.csv")
+
+# Verify shapes before cleaning
+print(f"customers shape: {customers.shape}")
+print(f"products shape: {products.shape}")
+print(f"orders shape: {orders.shape}")
