@@ -1,0 +1,8 @@
+### Situation
+Following rigorous data deduplication and cleaning across validated order records, Mamaearth's total cleaned revenue stands at ₹97,358.30. Reconciling against initial raw reports confirms an exact revenue delta of ₹2,501.90, which is entirely driven by the identification and removal of duplicate order entries.
+
+### Complication
+Payment method analysis reveals significant operational leakage: Cash on Delivery (COD) orders experience a high return rate of 44.4%, compared to prepaid methods like CARD (14.7%) and UPI (18.9%). Multi-level segmentation demonstrates that the single highest-risk segment is concentrated in COD orders originating from Tier-2 cities, where the return rate reaches an alarming 54.5%.
+
+### Resolution
+Removing bulk order quantity anomalies demonstrates that January's apparent revenue spike was an artifact of bulk outliers. After correcting for outliers, March (2026-03) is proven to be the genuine peak sales month, achieving ₹20,318.90 in verified revenue. Regional operations and finance teams must implement stricter COD verification rules in Tier-2 hubs to curb return rates.
